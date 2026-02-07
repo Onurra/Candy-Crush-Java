@@ -167,7 +167,14 @@ java game10.CandyCrush
 
 ## 📸 Demo
 
-> *Ekran görüntüsü eklenecek*
+### Oyun Oynanırken
+![Oynanış](game_playing.png)
+
+### Seviye Atlama
+![Seviye Geçişi](level_up.png)
+
+### Yeni Seviye
+![Yeni Seviye](next_level.png)
 
 ---
 
